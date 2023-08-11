@@ -35,7 +35,7 @@ Score Tracking: Keep track of your highest scores and aim for the leaderboard's 
 
 > Step 3 : Compile the game using a C++ compiler (e.g., g++):
 
-- g++ -o space-shooter main.cpp -lsfml-graphics -lsfml-window -lsfml-system
+ - g++ main.o -o main -Lsrc/lib -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system;
 
 > Step 4 : Run the compiled executable:
 
