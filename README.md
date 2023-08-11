@@ -42,7 +42,6 @@ Score Tracking: Keep track of your highest scores and aim for the leaderboard's 
  - ./main
 
 **Gameplay**
-
 > Use the arrow keys to control your spaceship's movement.
 > Press the space bar to shoot lasers and take down enemy spaceships.
 > Collect power-ups to upgrade your spaceship's abilities and gain an advantage.
@@ -60,12 +59,6 @@ Contributions to this project are welcome and encouraged. If you find any bugs o
 
 I extend my gratitude to the open-source community and the creators of the SFML library for enabling developers to bring their gaming visions to life. This project was created with a deep passion for game development, coding, and the boundless cosmos that inspire us all.
 
-**Let's connect** :  [LinkedIn](https://www.linkedin.com/in/qasim-hassan-2a154b195/
+**Let's connect** :  [LinkedIn](https://www.linkedin.com/in/qasim-hassan-2a154b195/)
 
-> [!NOTE]
-
-> This project was developed as part of a semester course on Object-Oriented Programming and serves as an educational and creative endeavor.
-
-
-
-
+> **NOTE** : This project was developed as part of a semester course on Object-Oriented Programming and serves as an educational and creative endeavor. 
